@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <color name="red">#FF0000</color>
+    <string-array name="categories_array">
+        <item>General</item>
+        <item>Health</item>
+        <item>Sports</item>
+        <item>Business</item>
+        <item>Entertainment</item>
+        <item>Science</item>
+        <item>Technology</item>
+        <!-- Add more categories as needed -->
+    </string-array>
+</resources>
